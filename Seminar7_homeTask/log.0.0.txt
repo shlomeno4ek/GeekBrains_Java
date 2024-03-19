@@ -1,0 +1,5 @@
+
+мар. 19, 2024 2:17:04 PM logger.FileLog logging
+INFO: 2024-03-19T14:17:04.994494 <--- : ---> Sum up 9.0 + 3.0i and 2.0 + 3.0i
+мар. 19, 2024 2:17:05 PM logger.FileLog logging
+INFO: 2024-03-19T14:17:05.015482900 <--- : ---> Result: 11.0 + 6.0i
